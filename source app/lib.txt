@@ -1,0 +1,2 @@
+flutter pub add http
+flutter pub add fl_chart
